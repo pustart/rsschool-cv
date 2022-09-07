@@ -31,8 +31,11 @@ I want to go to the office, but I'm also ready for remote work. 30 hours per wee
 - Next.js
 - TypeScript
 - Webpack
+  
 ***
+
 ## Code samples
+
 Simple callback JS function:
 ```
 const setMode = (isBuild) => {
@@ -43,6 +46,7 @@ const setMode = (isBuild) => {
 };
 ```
 ***
+
 ## Experience
 
 ### [Gulp template](https://github.com/pustart/gulp-template)
@@ -60,6 +64,8 @@ Presentation for CS faculty based on opensource [Shower](https://github.com/show
   - [Learn modern JS](https://scrimba.com/learn/es6)
   - [JS for begginers](https://stepik.org/course/2223/info)
   - [CSS flexbox](https://learn.purpleschool.ru/student/courses/03a62147-4f7d-4927-bc9d-63cc0fd71b84/lessons)
+
 ***
+
 ## English level
 Somewhere between B1 and B2 in reading, writting & listening, but I had no speaking practice for a long time.
